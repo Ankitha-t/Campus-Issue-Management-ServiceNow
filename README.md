@@ -9,7 +9,7 @@ A custom ServiceNow scoped application designed to automate and streamline the r
 
 ## 📸 Project Architecture & Interface
 ### 1. Application Data Schema
-![Data Model Schema](DatamodalSchema.png)
+![Data Model Schema](Data Model Schema.png)
 
 ### 2. Live Incident Form View
-![Incident Form](Incidentform.png)
+![Incident Form](incidentform.png)

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-06-21 14:47:21">
+<x_1966199_campus_0_campus_issue action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<category>wifi</category>
+<department>it_team</department>
+<description>The connection disconnects every 5 minutes on the first floor.</description>
+<due_date/>
+<issue_title>WiFi dropping in Library</issue_title>
+<number>CAM0001006</number>
+<opened_date/>
+<priority>medium</priority>
+<resolution_notes/>
+<status>new</status>
+<submitted_by display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-17 16:32:53</sys_created_on>
+<sys_id>db036f11c3a5c75412fcdf0d050131c0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-17 16:32:53</sys_updated_on>
+</x_1966199_campus_0_campus_issue>
+</unload>

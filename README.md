@@ -12,4 +12,4 @@ A custom ServiceNow scoped application designed to automate and streamline the r
 ![Data Model Schema](Data Model Schema.png)
 
 ### 2. Live Incident Form View
-![Incident Form](incidentform.png)
+![Incident Form](Incident%20form.png)
